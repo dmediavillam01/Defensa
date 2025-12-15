@@ -1,0 +1,47 @@
+<section class="logo-cluster">
+      <figure class="social top">
+        <a href="https://www.facebook.com/?locale=es_ES" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" 
+                 width="35"></a></li>
+      </figure>
+
+      <figure class="logo">
+        <img src="assets/logo.png" alt="HealthSync" width="80">
+        <figcaption><h2>HealthSync</h2></figcaption>
+      </figure>
+
+      <figure class="social left">
+        <a href="https://x.com/?lang=es" target="_blank"><img src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-de-icono-de-twitter.png?w=360" 
+                 width="35"></a></li>
+      </figure>
+
+      <figure class="social right">
+        <a href="https://www.instagram.com/" target="_blank"><img src="https://cdn.pngedits.com/uploads/preview/circle-instagram-logo-hd-png-download-11617069035bgfzw4wndw.png" 
+                 width="40"></a></li>
+      </figure>
+    </section>
+
+<ul class="plan-list">
+        <li class="plan-card">
+          <header class="plan-header">
+            <h3>Básico</h3>
+            <p class="price">29.99€</p>
+          </header>
+          <p>Plan de alimentación estándar.</p>
+        </li>
+
+        <li class="plan-card featured">
+          <header class="plan-header">
+            <h3>Intermedio</h3>
+            <p class="price">49.99€</p>
+          </header>
+          <p>Incluye ejercicios y recetas premium.</p>
+        </li>
+
+        <li class="plan-card">
+          <header class="plan-header">
+            <h3>Avanzado</h3>
+            <p class="price">79.99€</p>
+          </header>
+          <p>Soporte prioritario y análisis avanzado.</p>
+        </li>
+      </ul>
