@@ -1,0 +1,7 @@
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dmediavillam01/Defensa.git
+git push -u origin main
